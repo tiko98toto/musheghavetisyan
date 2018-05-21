@@ -1,4 +1,7 @@
-.DS_Store
-node_modules/*
-/.idea
-/config/env/*.env
+.idea/
+srdb/
+wp-admin/
+wp-includes/
+wp-content/themes/twentyfifteen
+wp-content/themes/twentyseventeen
+wp-content/themes/twentysixteen
